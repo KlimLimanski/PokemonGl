@@ -71,9 +71,7 @@ section img {
     font-size: 14px;
     margin-top: 10px;
 }
-table {
-    display: flex;
-}
+
 .gameboy {
     height: 60px;
 }
@@ -162,7 +160,7 @@ section {
             
         }
 .types {
-    margin-left: 140px;
+    margin-left: 340px;
     align-items: center;
 }
 .tbl1 {

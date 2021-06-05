@@ -224,3 +224,8 @@ color: white;
 .img-responsive {
     margin : 0px;
 }
+.table-responsive {
+    margin-right: 20px;
+    margin-left: 60px;  
+}
+

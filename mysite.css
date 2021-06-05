@@ -8,7 +8,6 @@ body {
     margin: 20px 500px 10px 500px;
     bottom: 500px;
     border:3px solid #62daff ;
-    
 }
 
 .head1 {
@@ -23,7 +22,6 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blue;
     text-align: center;
-
 }
 
 h1 {
@@ -40,7 +38,6 @@ main {
     border:3px solid #62daff ;
     margin: 0px 500px 10px 500px;
     background-color:#c4eafa ;
-
 }
 
 
@@ -62,13 +59,13 @@ h2 {
     color: white;
     font-family: ;
 }
+
 nav {
     padding: 10px;
 }
 
 .text1 {
     font-size: 16px;
-   
 }
 
 section img {
